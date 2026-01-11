@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zliu29@crcfe02.crc.nd.edu:22 password (31)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="x-zliu46@anvil.rcac.purdue.edu:22 agent (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/x-zliu46/2025_fall/MCS_Bench" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zliu29@crcfe02.crc.nd.edu:22 password (31)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/afs/crc.nd.edu/user/z/zliu29/Private/2025_fall/MCS_Bench" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
