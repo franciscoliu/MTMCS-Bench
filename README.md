@@ -79,10 +79,10 @@ and `CAPTION_PATH` is the path to the caption file.
 
 If you find our codebase and dataset beneficial, please cite our work:
 ```
-@article{liu2024protecting,
-  title={Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench},
-  author={Liu, Zheyuan and Dou, Guangyao and Jia, Mengzhao and Tan, Zhaoxuan and Zeng, Qingkai and Yuan, Yongle and Jiang, Meng},
-  journal={arXiv preprint arXiv:2410.22108},
-  year={2024}
+@article{liu2026mtmcs,
+  title={MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues},
+  author={Liu, Zheyuan and Kim, Dongwhi and Wan, Yixin and Yuan, Xiangchi and Tan, Zhaoxuan and Mo, Fengran and Jiang, Meng},
+  journal={arXiv preprint arXiv:2601.06757},
+  year={2026}
 }
 ```
