@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/2410.22108">MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2601.06757">MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 <div align="center">    
